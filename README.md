@@ -1,2 +1,1 @@
-# ModCraft-Mod
-ModCraft Mods!
+# ver. 1.0
